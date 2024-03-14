@@ -17,7 +17,7 @@ local Tabs = {
     Stats = Window:AddTab({ Title = "Chỉ số", Icon = "plus-circle" }),
     Player = Window:AddTab({ Title = "Người chơi", Icon = "baby" }),
     Teleport = Window:AddTab({ Title = "Bay QUA Đảo", Icon = "palmtree" }),
-    Fruit = Window:AddTab({ Title = "Trái ĐẦU B", Icon = "cherry" }),
+    Fruit = Window:AddTab({ Title = "Trái Ác Quỷ", Icon = "cherry" }),
     Raid = Window:AddTab({ Title = "Đi ải RAID", Icon = "swords" }),
     Race = Window:AddTab({ Title = "Tộc V4", Icon = "chevrons-right" }),
     Shop = Window:AddTab({ Title = "Chợ đen", Icon = "shopping-cart" }),
